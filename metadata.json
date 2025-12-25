@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Mood-to-Movie Specialist",
+  "description": "An empathetic movie recommendation engine that suggests three films perfectly tailored to your current emotional state using Gemini AI.",
+  "requestFramePermissions": []
+}
